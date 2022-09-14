@@ -57,3 +57,12 @@ h1 {
     background-image: url(image/frame2.jpg);
     background-size: contain, cover;
 }
+
+.recipie-main {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.margin {
+    margin: 0;
+}
