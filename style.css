@@ -93,11 +93,12 @@ h1 {
 }
 
 .under {
-    width: 1000px;
+    width: 85%;
     border: 15px solid white;
     padding: 0;
     margin: 100px;
     display: flex;
+    justify-content: space-around;
     border-radius: 10px;
     box-shadow: 10px 10px 40px rgb(201, 197, 189);
 }
@@ -108,7 +109,8 @@ h1 {
 
 footer {
     text-align: center;
-    position: fixed;
+
+    height: 200px;
     left: 0;
     bottom: 0;
     width: 100%;
